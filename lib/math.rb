@@ -1,4 +1,4 @@
-def addition(2+2)
+def addition(2+2 =4)
 
 end
 
