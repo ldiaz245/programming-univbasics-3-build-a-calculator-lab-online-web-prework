@@ -2,7 +2,7 @@ def addition(2+2 =4)
 
 end
 
-def subtraction(num1, num2)
+def subtraction(13-6 =7)
 
 end
 
